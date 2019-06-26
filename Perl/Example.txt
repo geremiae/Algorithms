@@ -1,0 +1,4 @@
+Mike:Artist:134
+Sue:Athlete:123
+Bobby:Salesman:178
+Joe:Politican:111
