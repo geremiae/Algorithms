@@ -9,8 +9,6 @@ use feature "switch";
 
 use v5.30.0; #Version number used
 
-print "Hello World\n";
-
 my $first_name = 'Evan'; #Scalar, an individual piece of data, put anything inside
 
 my ($age, $street) = (22, '444 Blah Blah Dr'); #Example
