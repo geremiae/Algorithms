@@ -1,2 +1,2 @@
-# Algorithms
-Various extra credit assignments or personal projects
+# Personal Projects and Code References
+Various extra credit assignments, personal projects, and learning new languages
